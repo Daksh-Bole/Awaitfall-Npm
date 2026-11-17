@@ -21,13 +21,13 @@
   ],
   "license": "MIT",
   "author": "Daksh-Bole (https://github.com/Daksh-Bole)",
-  "homepage": "https://github.com/Daksh-Bole/Npm-package-#readme",
+  "homepage": "https://github.com/Daksh-Bole/Awaitfall-Npm#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Daksh-Bole/Npm-package-.git"
+    "url": "git+https://github.com/Daksh-Bole/Awaitfall-Npm.git"
   },
   "bugs": {
-    "url": "https://github.com/Daksh-Bole/Npm-package-/issues"
+    "url": "https://github.com/Daksh-Bole/Awaitfall-Npm/issues"
   },
   "type": "module",
   "exports": {

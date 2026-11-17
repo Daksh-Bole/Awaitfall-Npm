@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/awaitfall"><img alt="npm" src="https://img.shields.io/npm/v/awaitfall?color=0aa"></a>
-  <a href="https://github.com/Daksh-Bole/Npm-package-/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Daksh-Bole/Npm-package-/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://github.com/Daksh-Bole/Awaitfall-Npm/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Daksh-Bole/Awaitfall-Npm/actions/workflows/ci.yml/badge.svg"></a>
   <img alt="zero dependencies" src="https://img.shields.io/badge/dependencies-0-brightgreen">
   <img alt="types included" src="https://img.shields.io/badge/types-included-blue">
   <a href="./LICENSE"><img alt="MIT" src="https://img.shields.io/badge/license-MIT-lightgrey"></a>
@@ -406,7 +406,7 @@ Memory grows with the number of recorded spans (one small object each), bounded 
 - A Vitest/Jest reporter that prints the waterfall of slow tests.
 - Optional per-span stack locations, to jump from a bar straight to the code.
 
-Ideas and votes are welcome in [issues](https://github.com/Daksh-Bole/Npm-package-/issues).
+Ideas and votes are welcome in [issues](https://github.com/Daksh-Bole/Awaitfall-Npm/issues).
 
 ## Contributing
 
